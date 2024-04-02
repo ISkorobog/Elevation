@@ -8,7 +8,7 @@ import tkinter as tk
 import random
 import os 
 
-apikey="AIzaSyDRkZKRiFBleX8fONT-d0emRqKtNeyZSpg"
+apikey=""
 class Point:
     def __init__(self,x,y):
         self.x=x
